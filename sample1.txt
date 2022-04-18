@@ -1,0 +1,3 @@
+Food: Burgers Hotdogs Cheese
+Colors: Pink Purple Orange Blue
+People: Timmy Jimmy Kimmy
